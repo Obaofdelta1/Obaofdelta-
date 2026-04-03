@@ -1,0 +1,77 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tech Ceaser</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <h1 class="fade-in">Welcome to obatech</h1>
+  <p class="slide-up">Innovating the Future with Technology</p>
+  <button class="glow-btn">Explore</button>
+</section>
+
+<!-- ABOUT -->
+<section class="about">
+  <h2>About Us</h2>
+  <p>We build modern tech solutions, websites, and digital tools for the future.</p>
+</section>
+
+<!-- SERVICES -->
+<section class="services">
+  <div class="card">
+    <h3>Web Development</h3>
+    <p>Modern & responsive websites</p>
+  </div>
+  <div class="card">
+    <h3>UI/UX Design</h3>
+    <p>Clean and beautiful interfaces</p>
+  </div>
+  <div class="card">
+    <h3>Tech Solutions</h3>
+    <p>Smart digital innovations</p>
+  </div>
+  <div class="card">
+    <h3>contact Tech Developer</h3>
+    <p>waltersbenjamin63@gmail.com</p>
+  </div>
+</section>
+<section class="tech">
+  <h2>Technologies We Use</h2>
+
+  <div class="tech-icons">
+    <div class="icon">
+      <i class="fa-brands fa-html5"></i>
+      <p>HTML5</p>
+    </div>
+
+    <div class="icon">
+      <i class="fa-brands fa-css3-alt"></i>
+      <p>CSS3</p>
+    </div>
+
+    <div class="icon">
+      <i class="fa-brands fa-js"></i>
+      <p>JavaScript</p>
+    </div>
+
+    <div class="icon">
+      <i class="fa-brands fa-github"></i>
+      <p>GitHub</p>
+    </div>
+    
+    <div class="icon">
+      <i class="fa-brands fa-python"></i>
+      <p>python</p>
+    </div>
+</section>
+
+<footer>
+  <p>© 2026 Tech Ceaser. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
